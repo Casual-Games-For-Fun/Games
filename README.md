@@ -6,9 +6,9 @@ Below is a list of open source games and game-related projects that can be found
 
 # Table of Contents.
 
-- [Major Companies](#major-companies)
+
 - [Browser-Based](#user-content-browser-based)
-  - [Boardgame](#user-content-boardgame)
+
   - [Arcade](#user-content-arcade)
   - [FPS](#user-content-fps)
   - [RPG](#user-content-rpg)
